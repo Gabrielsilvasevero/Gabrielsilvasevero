@@ -18,3 +18,9 @@
  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
  
  </div>
+
+ <h4> Gosto? Entre em contato: 👨‍💻 <h4>
+  
+  Email: gabrielsilvaselvero123@gmail.com
+  
+  
