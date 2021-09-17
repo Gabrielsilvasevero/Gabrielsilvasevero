@@ -3,7 +3,7 @@
 <h4> Sou estudante do curso técnico Desenvolvimento de Sistemas 💻 </h4>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvasevero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvasevero&layout=compact&langs_count=1&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvasevero&layout=compact&langs_count=7&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 
 
