@@ -30,6 +30,6 @@
  <h4> Gosto? Entre em contato: 👨‍💻 <h4>
   
   Email: gabrielsilvaselvero123@gmail.com
-  Linkedin: linkedin.com/in/gabriel-silva-72751b208
+
   
   
