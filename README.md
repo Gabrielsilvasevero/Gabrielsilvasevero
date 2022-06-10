@@ -3,7 +3,7 @@
 <h4> Técnico Desenvolvimento de Sistemas 💻 </h4>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvasevero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2BFAE4&icon_color=2BFAE4&text_color=2BFAE4&bg_color=0,000000,000" alt="ABSphreak's Github Stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsilvasevero&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsilvasevero&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> Tenho Conhcimento em: <h4>
 
